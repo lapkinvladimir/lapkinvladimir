@@ -95,11 +95,18 @@ Beloved song, why not
 
 
 <div align="center" dir="auto">
-<a href="https://open.spotify.com/user/omnitenebris" rel="nofollow"><img src="https://camo.githubusercontent.com/fc4839309cafac5f160cb296e6c298d9a4cfa2807529858c623492735e495592/68747470733a2f2f6e6f7661746f72656d2e76657263656c2e6170702f6170692f73706f746966793f6261636b67726f756e645f636f6c6f723d30643131313726626f726465725f636f6c6f723d666666666666" alt="Spotify" data-canonical-src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" style="max-width: 100%;"></a><p dir="auto"></p>
+<a href="https://open.spotify.com/user/wxvjir9xyronugov9rkt7vnpb" rel="nofollow"><img src="https://camo.githubusercontent.com/fc4839309cafac5f160cb296e6c298d9a4cfa2807529858c623492735e495592/68747470733a2f2f6e6f7661746f72656d2e76657263656c2e6170702f6170692f73706f746966793f6261636b67726f756e645f636f6c6f723d30643131313726626f726465725f636f6c6f723d666666666666" alt="Spotify" data-canonical-src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" style="max-width: 100%;"></a><p dir="auto"></p>
 </div>
 
 #
 
-### Show some ❤️ by following me! Thx <3
+<h1 align="center">
 
-![Гифка](ссылка_на_гифку)
+Show some ❤️ by following me! Thx <3
+
+</h1>
+
+<p align="center">
+  <img src="https://payload.cargocollective.com/1/18/591648/14359497/1.gif">
+</p>
+
