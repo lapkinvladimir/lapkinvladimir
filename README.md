@@ -1,7 +1,7 @@
 # Hi there
 
 <p align="center">
-    <a href="https://t.me/kapystya"><img src="ссылка_на_изображение_телеграм" alt="https://ibb.co/GxJQ9Zr" width="100" height="100"></a>
+    <a href="https://t.me/kapystya"><img src="ссылка_на_изображение_телеграм" alt="https://ltdfoto.ru/images/2024/05/12/free-telegram-3660050-3094484.png" width="100" height="100"></a>
     <a href="https://www.linkedin.com/in/volodymyr-lapkin-5188a92b0/"><img src="ссылка_на_изображение_линкедин" alt="LinkedIn" width="100" height="100"></a>
     <a href="https://www.instagram.com/just.no.mind/"><img src="ссылка_на_изображение_инстаграм" alt="Instagram" width="100" height="100"></a>
 </p>
