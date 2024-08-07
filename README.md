@@ -6,7 +6,7 @@ Hey there 👋 How are you doing today?
 
 <div align="center">
   
-**My socials**
+**My socials** 
   
 </div>
 
