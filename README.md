@@ -13,7 +13,7 @@ Hey there 👋 How are you doing today?
 
 <p align="center">
     <a href="https://t.me/kapystya"><img src="https://i.ibb.co/vwB4hNM/image.png" alt="Telegram" height="40"></a>
-    <a href="https://www.linkedin.com/in/volodymyr-lapkin-5188a92b0/"><img src="https://i.ibb.co/QjCVX8Z/image.png" alt="LinkedIn" height="40"></a>
+    <a href="https://www.linkedin.com/in/volodymyr-lapkin/"><img src="https://i.ibb.co/QjCVX8Z/image.png" alt="LinkedIn" height="40"></a>
     <a href="https://www.instagram.com/just.no.mind/"><img src="https://i.ibb.co/p6HWdWC/image.png" alt="Instagram" height="40"></a>
 </p>
 
